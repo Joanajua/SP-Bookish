@@ -21,7 +21,6 @@ namespace SP_Bookish
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                    askdfhaskjdhflkajhfkjshlkdhfa
                 });
     }
 }
